@@ -4,5 +4,4 @@ pkg install git
 cd /sdcard
 git clone https://github.com/EVANpaulp/ukk_galerifoto.git
 
-
 hasil nya:
